@@ -1,0 +1,2 @@
+# V1.0.25 — PT/MRC por parámetro
+Corrige la validación del motor de costeo: los ensayos de aptitud (PT) ingresados directamente en Recursos y distribución inteligente no requieren vínculo a Costos compartidos. Los MRC continúan siendo recursos por parámetro. Calibración, mantenimiento, verificación y equipos mantienen su control de duplicidad. Sin cambios en claves de almacenamiento ni datos existentes. 47 pruebas automatizadas satisfactorias.
